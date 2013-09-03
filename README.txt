@@ -1,0 +1,1 @@
+Bucket List is a social network that lets people keep track of their long-term goals, or their bucket list. This is the iOS App that goes with the social network.
